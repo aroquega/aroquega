@@ -1,16 +1,17 @@
-### Hi there 👋
+### My name is Hristo Roque
 
-<!--
-**aroquega/aroquega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer and I'm currently studying System Engineering at UNSA University in Arequipa. I love to build web user interfaces in React, and backend applications with .NET and Django.
 
-Here are some ideas to get you started:
+**Programming Languages** I love and use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**, I love its simplicity and builtin features.
+- **Javascript**, I love the fact that you can build everything with it.
+- **C#**, I love the .NET Core ecosystem 
+
+**Frameworks and Tools** I use:
+
+- **Django**
+- **React**
+- **ASP.NET Core**
+
+But I can easily work with similar frameworks.
